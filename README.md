@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am an independent Platform Engineering Consultant - I keep the peace between humans and computers. To read more about me and what I’ve done in the past you should check out [my CV](https://blog.dsoderlund.consulting/cv/). There you can also find more ways to get in touch with me.
+In the archive of [my site[(https://blog.dsoderlund.consulting/about) you can read stuff that I've written about things I found interesting at the time or that I thought I was going to have to remember later. Some of it is actually really cool or useful too :)
+
+
+
 <!--
 **QuadmanSWE/QuadmanSWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
