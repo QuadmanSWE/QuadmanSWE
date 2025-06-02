@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-I am an independent Platform Engineering Consultant - I keep the peace between humans and computers. To read more about me and what I’ve done in the past you should check out [my CV](https://blog.dsoderlund.consulting/cv/). There you can also find more ways to 📫 get in touch with me.
+I am an independent Platform Engineering Consultant - I keep the peace between humans and computers. To read more about me and what I’ve done in the past you should check out [CV](https://blog.dsoderlund.consulting/cv/). There you can also find more ways to 📫 get in touch with me.
 
-In the archive of [my site[(https://blog.dsoderlund.consulting/about) you can read stuff that I've written about things I found interesting at the time or that I thought I was going to have to remember later. Some of it is actually really cool or useful too :)
+In the archive of [my site](https://blog.dsoderlund.consulting/about) you can read stuff that I've written about things I found interesting at the time or that I thought I was going to have to remember later. Some of it is actually really cool or useful too :)
+
 
 ## 🛠️ Here are some of the stuff that I like to work on.
 <p align="left">
@@ -14,23 +15,6 @@ In the archive of [my site[(https://blog.dsoderlund.consulting/about) you can re
     <img alt="Backstage" src="https://landscape.cncf.io/logos/041229aa6e716c8d0beb5752747b4789f42dc3239c245c6cf3af8d5cf651b1ee.svg" width="30" height="30"/>
 </p>
 
-You can see a lot of those tools and systems in action together in my repo "ds-ref-platform" (David Söderlund Reference Platform)
+You can see a lot of those tools and systems in action together in [github.com/QuadmanSWE/ds-ref-platform](my repo "ds-ref-platform") (short for David Söderlund's Reference Platform)
 
-
-
-I also host a variant of this on top proxmox/talos if you want a live demo.
-
-<!--
-**QuadmanSWE/QuadmanSWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also host a variant of it on top proxmox/talos if you want a live demo or run a workshop with some or all of the tools together with your ideas.
